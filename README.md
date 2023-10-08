@@ -1,2 +1,2 @@
-# sorting algorithms
-all sorting algorithms
+# my algorithms
+my algorithms
